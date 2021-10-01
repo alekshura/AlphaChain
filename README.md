@@ -1,4 +1,4 @@
-# AlphaChain
+# About the repo
 In the early 2003-2004 during preparing my PhD thesis about theoretical calculations of lifetimes of Super Heavy nuclei  
 I've decided to handle `Fortran` output data for each nuclei using .NET.
 
